@@ -19,5 +19,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('Loginify.urls')),
+    path('task-2/', include('Loginify.urls')),
 ]
