@@ -1,10 +1,13 @@
 # DjangoProject
 ## Task-1 Screen shots:
 1. Create a Virtual Environment: DjangoAssignment, and activate
+
 ![img.png](assets/img.png)
 2. Install Django
+
 ![img_1.png](assets/img_1.png)
 3. Start project and setuo of the app.
+
 ![img_2.png](assets/img_2.png)
 
 
